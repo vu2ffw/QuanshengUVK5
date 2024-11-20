@@ -1,6 +1,6 @@
 # QuanshengUVK5
 Codeplug for Quansheng UV K5 Stock Firmware 
-This codeplug is for the stock firmware of UVk5 programmed using CHIRP </br>
+This codeplug is for the stock firmware of UVk5 programmed using CHIRP 
 you will need a Baofeng UV5R cable for programing the UVK5</br></br>
 **Steps to Upload** </br>
 1.Download the *.img file </br>
